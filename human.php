@@ -14,5 +14,8 @@
 		public function walk(){
 			return 'Walk';
 		}
+		public function get(){
+			return 'get';
+		}
 	}
 ?>
