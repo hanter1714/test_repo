@@ -17,5 +17,8 @@
 		public function get(){
 			return 'get';
 		}
+		public function get2(){
+			return 'get2';
+		}
 	}
 ?>
