@@ -21,6 +21,10 @@
 		public function sayHello(){
 			echo 'Hello<br>';
 		}
+		
+		public function seyHi(){
+			echo 'Hi !';
+		}
 	}
 	
 
