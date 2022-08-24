@@ -1,5 +1,6 @@
 <?php
 	/*
+	sss
 		VDO 1 
 	*/
 	class firstClass{
